@@ -1,3 +1,87 @@
+# 📦 Submission Process
+
+To complete your submission for the Nosana Builders Challenge, follow these steps:
+
+1. **Complete All Requirements**
+   - [x] All code changes and features implemented
+   - [x] Docker container built and pushed
+
+2. **Push All Changes**
+   - Commit and push all code and documentation updates to the `main` branch of your forked repo:
+     - All your code changes
+     - Updated README
+     - Link to your Docker container
+     - Link to your video demo
+     - Nosana deployment proof
+
+3. **Provide Required Links**
+   - **GitHub Repository:** https://github.com/hasan199191/agent-challenge
+   - **Docker Image:** `hasanacikgoz91/hasanacikgoz91-agent-challenge:latest`
+   - **Video Demo:** https://vimeo.com/1098995500?share=copy
+   - **Nosana Deployment Proof:** (Add your Nosana job ID or dashboard link after successful deployment)
+
+4. **Social Media Post**
+   - Share your project on X (Twitter)
+   - Tag **@nosana_ai**
+   - Add a short description of your agent
+   - Use hashtag **#NosanaAgentChallenge**
+   - Example post:
+     ```
+     🚀 Deployed a Health & Wellness AI Agent for the #NosanaAgentChallenge! 
+     Open-source, Dockerized, and privacy-friendly—runs on Ollama & Nosana endpoints. 
+     Try it now! 
+     @nosana_ai
+     [GitHub] https://github.com/hasan199191/agent-challenge
+     [Demo] https://vimeo.com/1098995500?share=copy
+     ```
+
+5. **Finalize Submission**
+   - Go to https://earn.superteam.fun/agent-challenge
+   - Add your forked GitHub repo link
+   - Add your X (Twitter) post link
+   - Add your Docker image and video demo links
+   - Add Nosana deployment proof (job ID or dashboard link)
+
+---
+---
+
+## 📦 Submission Process
+
+To complete your submission for the Nosana Builders Challenge, follow these steps:
+
+1. **Complete All Requirements**
+   - [x] All code changes and features implemented
+   - [x] Updated and detailed README
+   - [x] Docker container built and pushed
+
+2. **Push All Changes**
+   - Commit and push all code and documentation updates to the `main` branch of your forked repo:
+     **GitHub Repo:** https://github.com/hasan199191/agent-challenge
+
+3. **Provide Required Links**
+   - **Docker Image:**
+     `hasanacikgoz91/hasanacikgoz91-agent-challenge:latest`
+   - **Video Demo:**
+     [Watch on Vimeo](https://vimeo.com/1098995500?share=copy)
+   - **Nosana Deployment Proof:**
+     (Add your Nosana job ID or dashboard link after successful deployment)
+   - **Social Media Post:**
+     [View on X (Twitter)](https://x.com/chefcryptoz/status/1941488509199495249)
+
+4. **Social Media Post**
+   - Share your project on X (Twitter)
+   - Tag **@nosana_ai**
+   - Add a short description of your agent
+   - Use hashtag **#NosanaAgentChallenge**
+
+5. **Finalize Submission**
+   - Go to https://earn.superteam.fun/agent-challenge
+   - Add your forked GitHub repo link
+   - Add your X (Twitter) post link
+   - Add your Docker image and video demo links
+   - Add Nosana deployment proof (job ID or dashboard link)
+
+---
 <<<<<<< HEAD
 # Nosana Builders Challenge: Agent-101
 
