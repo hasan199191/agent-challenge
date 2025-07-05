@@ -1,6 +1,7 @@
 {
   "ops": [
     {
+<<<<<<< HEAD
       "id": "agents",
       "args": {
         "gpu": true,
@@ -12,6 +13,25 @@
         ],
         "entrypoint": [
           "/bin/sh"
+=======
+      "id": "health-wellness-agent",
+      "args": {
+        "gpu": true,
+        "image": "docker.io/hasanacikgoz91/hasanacikgoz91-agent-challenge:latest",
+        "expose": [
+          {
+            "port": 8080,
+            "health_checks": [
+              {
+                "path": "/health",
+                "type": "http",
+                "method": "GET",
+                "continuous": true,
+                "expected_status": 200
+              }
+            ]
+          }
+>>>>>>> 1edbf2e (Finalize Health & Wellness AI Agent: updated README, configs, and deployment docs)
         ]
       },
       "type": "container/run"
@@ -21,8 +41,17 @@
     "trigger": "dashboard",
     "system_requirements": {
       "required_vram": 4
+<<<<<<< HEAD
     }
   },
   "type": "container",
   "version": "0.1"
 }
+=======
+    },
+    "description": "Health & Wellness AI Agent - Comprehensive health tracking and wellness support"
+  },
+  "type": "container",
+  "version": "0.1"
+}
+>>>>>>> 1edbf2e (Finalize Health & Wellness AI Agent: updated README, configs, and deployment docs)

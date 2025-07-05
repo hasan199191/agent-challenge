@@ -46,4 +46,8 @@ Dockerfile
 coverage/
 .nyc_output/
 *.test.js
+<<<<<<< HEAD
 *.spec.js
+=======
+*.spec.js
+>>>>>>> 1edbf2e (Finalize Health & Wellness AI Agent: updated README, configs, and deployment docs)
