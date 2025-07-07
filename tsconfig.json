@@ -13,8 +13,4 @@
   "include": [
     "src/**/*"
   ]
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> 1edbf2e (Finalize Health & Wellness AI Agent: updated README, configs, and deployment docs)
